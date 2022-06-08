@@ -4,7 +4,6 @@
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Features](#features)
   - [Demo](#project-demo)
   - [Links](#links)
 - [My process](#my-process)
@@ -23,16 +22,11 @@ Users should be able to:
 
 #### - Each meal comes with ingredients and instructions
 
-### Features
-
-### Project Demo
-
-[![PROJECT DEMO](https://dotcom.nlcdn.com/wp-content/uploads/2020/03/Product_Demo_Featured-1140x768@2x-80-min.jpg)](loom)
 
 ### Links
 
-- Solution URL: Meal Finder GitHub Solution
-- Live Site URL: Meal Finder Website
+- Solution URL: [Meal Finder GitHub Solution](https://github.com/MaryAngelique/meal-finder)
+- Live Site URL: [Meal Finder Website](https://meal-finder-zero.vercel.app/)
 
 ## My process
 
