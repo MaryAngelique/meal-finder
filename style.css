@@ -126,9 +126,9 @@ input[type='text'] {
 }
 
 .single-meal ul li {
-    border: 1px solid #ededed;
+    border: 1px solid #f7f7f9;
     border-radius: 5px;
-    background-color: #fff;
+    background-color: #f7f7f9;
     display: inline-block;
     color: #03187e;
     font-size: 12px;
